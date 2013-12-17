@@ -1,7 +1,7 @@
 {
 	"name":"ranviermud",
 	"version":"0.0.1",
-  "main":"./ranvier",
+  "main":"./carbon",
 	"dependencies":{
 		"colorize":"",
 		"js-yaml":"",
