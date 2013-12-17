@@ -1,1 +1,1 @@
-node carbon --port=5000
+web: node carbon --port=5000
