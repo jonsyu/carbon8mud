@@ -111,8 +111,7 @@ var init = function (restart_server)
 		// start the server
 		server.listen(commander.port);
 
-
-		// save every 10 minutes
+    // save every 10 minutes
 		util.log("Setting autosave to " + commander.save + " minutes.");
 		clearInterval(saveint);
 		saveint = setInterval(save, commander.save * 60000);

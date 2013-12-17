@@ -13,6 +13,7 @@
 		"yaml":"",
 		"express":"",
 		"jade":"",
-		"commander": ""
+		"commander": "",
+    "ws": "0.4.x"
 	}
 }
