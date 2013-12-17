@@ -1,1 +1,1 @@
-node carbon --port=5000
+./carbon --port=5000
